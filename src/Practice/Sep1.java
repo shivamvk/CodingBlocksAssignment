@@ -13,14 +13,46 @@ public class Sep1 {
         int step = scanner.nextInt();
         converter(start, end, step);*/
 
-        //prime number
+        /*//prime number
         int num = scanner.nextInt();
         if (isPrime(num)){
             System.out.println("Prime");
         } else {
             System.out.println("Not prime");
-        }
+        }*/
 
+        /*//converting from decimal to binary
+        int dec = scanner.nextInt();
+        System.out.println(decToBin(dec));*/
+
+        //converting from binary to decimal
+        int bin = scanner.nextInt();
+        System.out.println(binToDec(bin));
+
+    }
+
+    private static int binToDec(int bin) {
+        int dec = 0;
+        int k = 0;
+        while (bin>0){
+            int rem = bin%10;
+            bin = bin/10;
+            dec = dec + ((int) Math.pow(2,k)*rem);
+            k++;
+        }
+        return dec;
+    }
+
+    private static int decToBin(int dec) {
+        int bin = 0;
+        int k = 0;
+        while (dec>0){
+            int rem = dec%2;
+            dec = dec/2;
+            bin = bin + ((int)Math.pow(10, k)*rem);
+            k++;
+        }
+        return bin;
     }
 
     private static boolean isPrime(int num) {
