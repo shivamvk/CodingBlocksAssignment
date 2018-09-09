@@ -2,6 +2,12 @@ package Practice;
 
 public class Sorting {
 
+    public static void main(String[] args) {
+        int a[] = {2, 14, -18, 7};
+        selectionSort(a);
+        Utility.display(a);
+    }
+
     static void bubbleSort(int[] nums){
 
         //run the loop n-1 times

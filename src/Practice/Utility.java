@@ -1,6 +1,33 @@
 package Practice;
 
+import java.util.Scanner;
+
 class Utility {
+
+    public static void main(String[] args) {
+        be();
+    }
+
+    private static void be(){
+        Scanner scanner = new Scanner(System.in);
+        char ch;
+        do{
+            ch = scanner.next().charAt(0);
+            switch(ch){
+                case 'X':
+                    break;
+
+                case 'x':
+                    break;
+
+                case '+':
+                    int a = scanner.nextInt();
+                    int b = scanner.nextInt();
+                    System.out.println(a+b);
+            }
+        } while(ch != 'X' || ch != 'x');
+    }
+
     static void display(int[] nums){
         for (int i : nums){
             System.out.println(i);
