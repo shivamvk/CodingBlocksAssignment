@@ -18,9 +18,9 @@ public class Sep8 {
         Scanner scanner = new Scanner(System.in);
         String string = scanner.next();
         //System.out.println(string.indexOf('l'));
-        //subStrings(string);
+        subStrings(string);
         //isPallindrome(string);
-        System.out.println(toggle(string));
+        //System.out.println(toggle(string));
     }
 
     @NotNull
