@@ -13,7 +13,7 @@ public class Sep15 {
         //System.out.println(getSubsequence("", scanner.next()));
         //printNumpadCombinations("", scanner.next());
         //System.out.println(getAllPermutations("", scanner.next()));
-        //skip("", "kikibymicky");
+        skip("", "kikibymicky");
         //System.out.println(skip("hitmanhitthehien"));
 
     }
