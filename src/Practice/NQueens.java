@@ -10,8 +10,8 @@ public class NQueens {
 
         boolean board[][] = new boolean[n][n];
         //false is safe and true is unsafe
-        //nqueens(board, 0);
-        nKnights(board, 0, 0, 6);
+        nqueens(board, 0);
+        //nKnights(board, 0, 0, 6);
     }
 
     private static void nqueens(boolean[][] board, int row) {

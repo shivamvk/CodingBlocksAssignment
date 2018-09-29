@@ -1,5 +1,7 @@
 package HackerBlocks;
 
+import java.util.Arrays;
+
 public class InverseArray {
     public static void main(String[] args) {
         int a[] = {4, 0, 2, 1, 3};

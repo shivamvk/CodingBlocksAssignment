@@ -6,14 +6,14 @@ import java.util.Scanner;
 public class Sep15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        printSubsequence("", scanner.next());
+        //printSubsequence("", scanner.next());
         //printAllPermutations("", scanner.next());
         //printAllBoardPoints("", scanner.nextInt());
         //printAllBoardPoints("", scanner.nextInt(), scanner.nextInt());
         //System.out.println(getSubsequence("", scanner.next()));
-        //printNumpadCombinations("", scanner.next());
+        printNumpadCombinations("", scanner.next());
         //System.out.println(getAllPermutations("", scanner.next()));
-        skip("", "kikibymicky");
+        //skip("", "kikibymicky");
         //System.out.println(skip("hitmanhitthehien"));
 
     }
