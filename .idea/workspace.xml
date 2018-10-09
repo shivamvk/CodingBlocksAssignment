@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/Practice/RecursionInArrays.java" line="56" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="298e04bc-60ba-4601-bb92-0eea7e28c82b" name="Default Changelist" comment="" />
+    <list default="true" id="298e04bc-60ba-4601-bb92-0eea7e28c82b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment4/A4Q4.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,20 +78,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assignment4/A4Q2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assignment4/A4Q3.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Assignment4/A4Q4.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -113,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HackerBlocks/StringRemove.java" />
-        <option value="$PROJECT_DIR$/src/HackerBlocks/MagicalString1.java" />
         <option value="$PROJECT_DIR$/src/HackerBlocks/UglyNumbers.java" />
         <option value="$PROJECT_DIR$/src/Assignmnet6/A6Q1.java" />
         <option value="$PROJECT_DIR$/src/HackerBlocks/PascalTriangle.java" />
@@ -164,6 +174,8 @@
         <option value="$PROJECT_DIR$/src/Practice/Sep29/Queue.java" />
         <option value="$PROJECT_DIR$/src/Practice/Sep29/StackQueueClient.java" />
         <option value="$PROJECT_DIR$/src/Assignment4/A4Q2.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/A4Q3.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/A4Q4.java" />
       </list>
     </option>
   </component>
@@ -216,7 +228,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539136229818" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539136515602" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -427,20 +439,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Assignmnet6/A6Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignmnet6/A6Q4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-237">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignmnet6/A6Q7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -794,6 +792,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment4/A4Q2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/A4Q3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/A4Q4.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
