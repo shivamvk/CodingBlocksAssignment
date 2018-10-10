@@ -35,10 +35,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CodingBlocks$A1Q5.ic" NAME="A1Q5 Coverage Results" MODIFIED="1535198314119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/CodingBlocks$A2Q14.ic" NAME="A2Q14 Coverage Results" MODIFIED="1535740795677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Assignment2.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/CodingBlocks$A1Q5.ic" NAME="A1Q5 Coverage Results" MODIFIED="1535198314119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="173" />
@@ -218,10 +218,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="57" />
-    <option name="y" value="44" />
-    <option name="width" value="1299" />
-    <option name="height" value="704" />
+    <option name="x" value="61" />
+    <option name="y" value="-4" />
+    <option name="width" value="1293" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -286,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SplitArray">
     <configuration name="KingsmenCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerBlocks.KingsmenCounting" />
       <module name="CodingBlocks" />
